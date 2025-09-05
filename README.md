@@ -1,4 +1,5 @@
 Eren Erdoğan - erenerdogan12323@gmail.com
+
 Pusula Talent Academy - Data Science Case Study
 
 This repository contains the code, data set and documentation for the Pusula Talent Academy - Data Science Case Study.
